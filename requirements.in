@@ -1,4 +1,5 @@
 colorama
 requests
-bs4
+sys
 dnspython
+urllib
