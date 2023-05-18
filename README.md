@@ -1,5 +1,6 @@
 # vulnera
 
-![banner](https://github.com/akshobdhira/vulnera/blob/main/banner.png)
+![banner](https://github.com/akshobdhira/vulnera/assets/75027888/65c32b8c-36b8-4459-83a4-ac923a43a8e1)
+
 
 Vulnera is a web app vulnerability scanner that focuses on subdomain enumeration, clickjacking, and host header injection. Vulnera helps developers and security professionals proactively mitigate risks and safeguard their web applications
