@@ -13,10 +13,12 @@ Vulnera helps developers and security professionals proactively mitigate risks a
 
 ### Required Python Library
 
-$ pip install colorama
-$ pip install requests
-$ pip install sys
-$ pip install dnspython
-$ pip install urllib
+`$ pip install colorama
+ $ pip install requests
+ $ pip install sys
+ $ pip install dnspython
+ $ pip install urllib`
+ 
+ 
 
 
