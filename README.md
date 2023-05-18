@@ -20,9 +20,9 @@ Vulnera helps developers and security professionals proactively mitigate risks a
     $ pip install urllib
     
 ### Usage Guide :
-   > $ python3 start_.py 
-   > $ select the modules by entering the module number 
-   > $ enter the host or domain
+    > $ python3 start_.py 
+    > $ select the modules by entering the module number 
+    > $ enter the host or domain
  
 
 
