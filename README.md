@@ -11,13 +11,17 @@ Vulnera helps developers and security professionals proactively mitigate risks a
 * checks for clickjacking vulnerability
 * checks for host header injection vulnerability
 
-### Required Python Library :
+### Required Python Library to be installed :
 
     $ pip install colorama
     $ pip install requests
     $ pip install sys
     $ pip install dnspython
     $ pip install urllib
+    
+### Usage Guide :
+   > $ python3 start_.py 
+    
  
  
 
